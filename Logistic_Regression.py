@@ -23,6 +23,7 @@ dataset = torchvision.datasets.CIFAR10(root='./data', train=True,
 # spliting the data
 def dividing(training, cv):
   cv_len = int(training*cv)
+  m = 50000
   indices = np.random.permutation(m)
   return indices[cv_len:], indices[:cv_len]
 
