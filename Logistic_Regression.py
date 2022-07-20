@@ -1,5 +1,6 @@
-# Eric Tran
-# Maheep Jain
+# Eric Tran 180899350
+# Maheep Jain 203386460
+# For CP468 Project
 
 !pip install jovian --upgrade
 import torch
