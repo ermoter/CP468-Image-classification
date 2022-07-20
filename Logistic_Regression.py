@@ -2,7 +2,7 @@
 # Maheep Jain maheepjain 203386460
 # For CP468 Project
 # https://github.com/wangermote/CP468-Image-classification 
-!pip install jovian --upgrade
+
 import torch
 from pathlib import Path
 import pandas as pd
