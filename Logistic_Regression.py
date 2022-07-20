@@ -1,3 +1,6 @@
+# Eric Tran
+# Maheep Jain
+
 !pip install jovian --upgrade
 import torch
 from pathlib import Path
