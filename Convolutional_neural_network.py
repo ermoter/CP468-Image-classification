@@ -1,6 +1,7 @@
-# Eric Tran 180899350
-# Maheep Jain 203386460
+# Eric Tran wangermote 180899350
+# Maheep Jain maheepjain 203386460
 # For CP468 Project
+# https://github.com/wangermote/CP468-Image-classification 
 from matplotlib import pyplot
 import tensorflow as tf
 from tensorflow.keras import datasets, layers, models
